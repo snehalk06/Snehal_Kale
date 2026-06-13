@@ -280,7 +280,7 @@ chatbotToggle.addEventListener('click', () => {
             const existing = chatMessages.querySelector('.flex.flex-wrap');
             if (!existing) {
                 addMessage(
-                    `What would you like to know about Pratik?`,
+                    `What would you like to know about Snehal?`,
                     false,
                     MAIN_MENU_REPLIES
                 );
