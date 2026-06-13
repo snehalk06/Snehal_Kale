@@ -78,7 +78,7 @@ chatbotClose.addEventListener('click', toggleChatbot);
 const topicDetails = {
     skills: `💻 <b>Snehals's Skills</b><br><br>🔹 <b>Languages:</b> C, C++, Java, JavaScript, MySQL<br>🔹 <b>Web Dev:</b> HTML5, CSS3, React.js, Spring Boot, Apache<br>🔹 <b>Soft Skills:</b> Problem Solving, Communication, Logical Thinking`,
 
-    education: `🎓 <b>Snehal's Education</b><br><br>📌 <b>B.Tech CSE</b> — Sharad Institute Of Technology (2022–2026) | CGPA: 8.16<br>📌 <b>HSC</b> — Raosahebanna Kitturkar Junior College Gadhinglaj (2022) | 79.50%<br>📌 <b>SSC</b> — Jagruti Highschool, Gadhingalj. (2020) | 94.60%`,
+    education: `🎓 <b>Snehal's Education</b><br><br>📌 <b>B.Tech CSE</b> — Sharad Institute Of Technology (2022–2026) | CGPA: 8.16<br>📌 <b>HSC</b> — Raosahebanna Kitturkar Junior College Gadhinglaj (2022) | 80%<br>📌 <b>SSC</b> — Jagruti Highschool, Gadhingalj. (2020) | 95%`,
 
     contact: `📬 <b>Get in Touch</b><br><br>📧 <b>Email:</b> snehalkale499@gmail.com<br>📞 <b>Phone:</b> 9028575422<br>🐙 <b>GitHub:</b> github.com/snehalk06<br>💼 <b>LinkedIn:</b> linkedin.com/in/Snehal-kale-393772370`,
 
